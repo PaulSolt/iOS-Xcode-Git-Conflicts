@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ona-sb-F8q">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ona-sb-F8q">
     <device id="retina5_9" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16086"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -330,8 +330,6 @@
                         <outlet property="contentView" destination="UId-iq-GjR" id="0ga-ai-6F9"/>
                         <outlet property="emailTextField" destination="vl9-Jd-yTx" id="iRO-Af-h61"/>
                         <outlet property="errorLabel" destination="9qK-Vs-Cgg" id="dNc-Jp-CZc"/>
-                        <outlet property="fieldStackView" destination="aQm-Tf-sAn" id="Kau-Na-u9r"/>
-                        <outlet property="popupBackground" destination="AhP-j1-5Tu" id="bBL-Sp-8Uu"/>
                         <outlet property="scrollView" destination="PRZ-QC-EPl" id="Py4-uI-tEW"/>
                     </connections>
                 </viewController>
